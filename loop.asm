@@ -1,5 +1,5 @@
-;学习loop循环
-;计算2的12次方
+;leran loop 
+;2^12
 ;21/3/2016
 
 assume cs:code
